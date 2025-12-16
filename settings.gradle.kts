@@ -87,6 +87,9 @@ include(
     ":crashlytics",
     ":crashlytics-empty",
     ":kizzy",
+    ":myjavaapp",
+    ":myjavaapp:kotlin-bridge",
+    ":androidapp",
 )
 project(":mediaserviceinterfaces").projectDir = File(mediaServiceCore, "mediaserviceinterfaces")
 project(":youtubeapi").projectDir = File(mediaServiceCore, "youtubeapi")

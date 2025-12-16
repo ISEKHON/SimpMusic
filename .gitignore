@@ -27,3 +27,5 @@ sentry.properties
 /composeApp/build/
 /composeApp/cache/
 /composeApp/kcef-bundle/
+androidapp/build
+myjavaapp/kotlin-bridge/build
